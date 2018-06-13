@@ -1,0 +1,32 @@
+version: "3"
+volumes:
+  db-data:
+services:
+  builder: 
+    build:
+      context: .
+      dockerfile: containers/web/Dockerfile
+    image: dspace:latest
+  web:
+    build:
+      context: .
+      dockerfile: containers/web/Dockerfile
+    image: dspace:latest
+    volumes: 
+      - .:/dspace
+    depends_on:
+      - db
+      - builder
+  db:
+    image: postgres:9.6
+    environment:
+      POSTGRES_DB: dspace
+      POSTGRES_USER: dspace
+      POSTGRES_PASSWORD: dspace
+    volumes:
+      - "db-data:/var/lib/postgresql/data"
+      - "./containers/db/docker-entrypoint-initdb.d:/docker-entrypoint-initdb.d"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
