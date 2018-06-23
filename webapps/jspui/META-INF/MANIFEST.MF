@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: DSpace JSP-UI :: Local Customizations
+Implementation-Version: 6.2
+Archiver-Version: Plexus Archiver
+Built-By: root
+Specification-Vendor: DuraSpace
+Specification-Title: DSpace JSP-UI :: Local Customizations
+Implementation-Vendor-Id: org.dspace.modules
+Implementation-Vendor: DuraSpace
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_171
+Specification-Version: 6.2
+Implementation-URL: https://github.com/dspace/DSpace/modules/jspui
+
