@@ -22,7 +22,7 @@ ENV DSPACE /dspace
 ENV DSPACE_INSTALLER $DSPACE/dspace-src
 WORKDIR $DSPACE_INSTALLER
 RUN useradd -m dspace
-RUN mkdir $DSPACE && chown dspace $DSPACE
+RUN chown dspace $DSPACE
 # RUN wget -O $DSPACE_INSTALLER/dspace-6.2.tar.gz https://github.com/DSpace/DSpace/releases/download/dspace-6.2/dspace-6.2-src-release.tar.gz
 # RUN tar xzvf $DSPACE_INSTALLER/dspace-6.2.tar.gz -C $DSPACE_INSTALLER
 # ADD containers/web/local.cfg $DSPACE_INSTALLER/dspace-6.2-src-release/dspace/config/
