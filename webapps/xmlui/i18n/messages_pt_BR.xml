@@ -195,7 +195,7 @@
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.CollectionViewer.java -->
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.search_scope">Escopo da busca</message>
-	<message key="xmlui.ArtifactBrowser.CollectionViewer.all_of_dspace">Todo o repositório</message>
+	<message key="xmlui.ArtifactBrowser.CollectionViewer.all_of_dspace">Todo o acervo</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.full_text_search">Buscar nesta coleção:</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.head_browse">Navegar por</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.browse_titles">Títulos</message>
@@ -212,7 +212,7 @@
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.CommunityViewer.java -->
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.search_scope">Escopo da busca</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.all_of_dspace">Todo o repositório</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.all_of_dspace">Todo o acervo</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.full_text_search">Pesquisar nesta comunidade e nas suas coleções:</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_browse">Navegar por</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_titles">Títulos</message>
@@ -262,11 +262,11 @@
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.Navigation.java -->
 	<message key="xmlui.ArtifactBrowser.Navigation.head_browse">Navegar</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">Todo o repositório</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">Todo o acervo</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.communities_and_collections">Comunidades e Coleções</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">Títulos</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_author">Autores</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_subject">Assuntos</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">Por títulos</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_author">Por autores</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_subject">Por assuntos</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateissued">Por data do documento</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateaccessioned">Por data de submissão</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.head_this_collection">Esta coleção</message>
@@ -400,7 +400,7 @@
 	<message key="xmlui.EPerson.Navigation.profile">Perfil</message>
 	<message key="xmlui.EPerson.Navigation.logout">Sair</message>
 	<message key="xmlui.EPerson.Navigation.login">Entrar</message>
-	<message key="xmlui.EPerson.Navigation.register">Cadastro</message>
+	<message key="xmlui.EPerson.Navigation.register">Cadastrar</message>
 
 	<!-- org.dspace.app.xmlui.eperson.PasswordLogin.java -->
 	<message key="xmlui.EPerson.PasswordLogin.title">Entrar</message>
@@ -490,7 +490,7 @@
 	<message key="xmlui.EPerson.StartRegistration.email_address">Endereço de e-mail</message>
 	<message key="xmlui.EPerson.StartRegistration.email_address_help">Este endereço será verificado e usado como seu nome de login.</message>
 	<message key="xmlui.EPerson.StartRegistration.error_bad_email">Não é possível enviar e-mail para este endereço.</message>
-	<message key="xmlui.EPerson.StartRegistration.submit_register">Cadastro</message>
+	<message key="xmlui.EPerson.StartRegistration.submit_register">Cadastrar</message>
 
 	<!-- org.dspace.app.xmlui.eperson.VerifyEmail.java -->
 	<message key="xmlui.EPerson.VerifyEmail.title">E-mail de confirmação enviado</message>

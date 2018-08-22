@@ -13,9 +13,9 @@ RUN apt-get update && \
 ENV JAVA_HOME /usr/lib/jvm/java-8-openjdk-amd64/
 RUN export JAVA_HOME
 #maven install
-RUN wget -O /opt/apache-maven.tar.gz http://mirror.nbtelecom.com.br/apache/maven/maven-3/3.5.3/binaries/apache-maven-3.5.3-bin.tar.gz
+RUN wget -O /opt/apache-maven.tar.gz http://mirror.nbtelecom.com.br/apache/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
 RUN tar xzvf /opt/apache-maven.tar.gz -C /opt/
-RUN ln -s /opt/apache-maven-3.5.3/ /opt/apache-maven
+RUN ln -s /opt/apache-maven-3.5.4/ /opt/apache-maven
 ENV PATH /opt/apache-maven/bin:$PATH
 #dspace install
 ENV DSPACE /dspace

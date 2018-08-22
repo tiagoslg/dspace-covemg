@@ -2,3 +2,5 @@ solr/search/*
 solr/statistics/*
 assetstore/*
 dspace-src*
+log/*
+var/

@@ -555,7 +555,7 @@
                 <div class="row">
                     <div class="row">
                         <div class="col-md-12">
-                            <p>COVEMG - Comissão de Verdade em Minas Gerais</p><span>Av. Amazonas, 558 - 3º andar - Centro - Belo Horizonte - Minas Gerais</span><span><strong>CEP:</strong>30170-130</span><span><strong>Tel.:</strong>+55 (31) 3270-3298 &#160; +55 (31) 3270-3226</span>
+                            <p>COVEMG - Comissão da Verdade em Minas Gerais</p><span>Av. Amazonas, 558 - 3º andar - Centro - Belo Horizonte - Minas Gerais</span><span><strong>CEP:</strong>30170-130</span><span><strong>Tel.:</strong>+55 (31) 3270-3298 &#160; +55 (31) 3270-3226</span>
                         </div>
                     </div>
                 </div>
@@ -572,13 +572,9 @@
         </footer>
     </xsl:template>
 
-
     <!--
             The meta, body, options elements; the three top-level elements in the schema
     -->
-
-
-
 
     <!--
         The template to handle the dri:body element. It simply creates the ds-body div and applies
@@ -609,7 +605,6 @@
 
         </div>
     </xsl:template>
-
 
     <!-- Currently the dri:meta element is not parsed directly. Instead, parts of it are referenced from inside
         other elements (like reference). The blank template below ends the execution of the meta branch -->

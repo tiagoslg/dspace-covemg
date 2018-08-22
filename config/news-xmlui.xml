@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <document xmlns="http://di.tamu.edu/DRI/1.0/" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.1">
 <body>
-<!--<div id="file.news.div.news" n="news" rend="second">-->
-<!--<head>DSpace Repository</head>-->
-<!--<p>DSpace is a digital service that collects, preserves, and distributes digital material. Repositories are important tools for preserving an organization&apos;s legacy; they facilitate digital preservation and scholarly communication.</p>-->
-<!--</div>-->
     <head id="memoria">Comunidades</head>
     <div id="colecoes">
         <xref target="/xmlui/handle/123456789/199" id="destaque" rend="destaque com01">
@@ -39,7 +35,7 @@
             <item rend="odd">
                 <xref target="/xmlui/handle/123456789/187" rend="com06" >
                     <p rend="comunidades"></p>
-                    <p id="botao-principal">REPRESSÃO TRABALHADORES E AO MOVIMENTO SINDICAL</p>
+                    <p id="botao-principal">REPRESSÃO À TRABALHADORES E AO MOVIMENTO SINDICAL</p>
                 </xref>
             </item>
             <item>
@@ -57,7 +53,7 @@
             <item>
                 <xref target="/xmlui/handle/123456789/193" rend="com09" >
                     <p rend="comunidades"></p>
-                    <p id="botao-principal">A EXTREMA DIREITA VAI AO TERRORISMO</p>
+                    <p id="botao-principal">TERRORISMO DE EXTREMA DIREITA</p>
                 </xref>
             </item>
             <item rend="odd">
@@ -87,10 +83,10 @@
         </list>
     </div>
 </body>
-<options/>
-<meta>
-<userMeta/>
-<pageMeta/>
-<repositoryMeta/>
-</meta>
+    <options/>
+    <meta>
+        <userMeta/>
+        <pageMeta/>
+        <repositoryMeta/>
+    </meta>
 </document>
