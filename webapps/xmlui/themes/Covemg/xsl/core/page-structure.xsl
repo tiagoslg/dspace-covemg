@@ -572,9 +572,13 @@
         </footer>
     </xsl:template>
 
+
     <!--
             The meta, body, options elements; the three top-level elements in the schema
     -->
+
+
+
 
     <!--
         The template to handle the dri:body element. It simply creates the ds-body div and applies
@@ -605,6 +609,7 @@
 
         </div>
     </xsl:template>
+
 
     <!-- Currently the dri:meta element is not parsed directly. Instead, parts of it are referenced from inside
         other elements (like reference). The blank template below ends the execution of the meta branch -->

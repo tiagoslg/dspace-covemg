@@ -59,7 +59,7 @@
     </servlet-mapping>
 
     <!-- Security settings and mapping -->
-    <!-- <security-constraint>
+    <security-constraint>
         <web-resource-collection>
             <web-resource-name>DSpace REST API</web-resource-name>
             <url-pattern>/*</url-pattern>
@@ -67,7 +67,7 @@
         <user-data-constraint>
             <transport-guarantee>CONFIDENTIAL</transport-guarantee>
         </user-data-constraint>
-    </security-constraint> -->
+    </security-constraint>
     
     <!-- ConfigurationService initialization for dspace.dir -->
     <context-param>

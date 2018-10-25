@@ -7,8 +7,8 @@ Specification-Vendor: DuraSpace
 Specification-Title: DSpace OAI-PMH :: Local Customizations
 Implementation-Vendor-Id: org.dspace.modules
 Implementation-Vendor: DuraSpace
-Created-By: Apache Maven 3.5.3
-Build-Jdk: 1.8.0_171
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_181
 Specification-Version: 6.2
 Implementation-URL: https://github.com/dspace/DSpace/modules/oai
 
