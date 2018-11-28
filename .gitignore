@@ -4,3 +4,4 @@ assetstore/*
 dspace-src*
 log/*
 var/
+.idea/
