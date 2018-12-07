@@ -192,6 +192,25 @@
 	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.item.dateaccessioned">Navegação {0} por data de submissão {1}</message>
 	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.item.dateaccessioned">Navegação {0} por data de submissão</message>
 
+	<!-- org.dspace.app.xmlui.administrative.WithdrawnItems.java -->
+	<message key="xmlui.Administrative.WithdrawnItems.title.item.title">Itens Retirados por Título</message>
+	<message key="xmlui.Administrative.WithdrawnItems.trail.item.title">Itens Retirados por Título</message>
+
+	<message key="xmlui.Administrative.WithdrawnItems.title.item.dateissued">Itens Retirados por Data de Publicação</message>
+	<message key="xmlui.Administrative.WithdrawnItems.trail.item.dateissued">Itens Retirados por Data de Publicação</message>
+
+	<message key="xmlui.Administrative.WithdrawnItems.title.item.dateaccessioned">Itens Retirados por Data de Submissão</message>
+	<message key="xmlui.Administrative.WithdrawnItems.trail.item.dateaccessioned">Itens Retirados por Data de Submissão</message>
+
+	<!-- org.dspace.app.xmlui.administrative.PrivateItems.java -->
+	<message key="xmlui.Administrative.PrivateItems.title.item.title">Itens Privados por Título</message>
+	<message key="xmlui.Administrative.PrivateItems.trail.item.title">Itens Privados por Título</message>
+
+	<message key="xmlui.Administrative.PrivateItems.title.item.dateissued">Itens Privados por Data de Publicação</message>
+	<message key="xmlui.Administrative.PrivateItems.trail.item.dateissued">Itens Privados por Data de Publicação</message>
+
+	<message key="xmlui.Administrative.PrivateItems.title.item.dateaccessioned">Itens Privados por Data de Submissão</message>
+	<message key="xmlui.Administrative.PrivateItems.trail.item.dateaccessioned">Itens Privados por Data de Submissão</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.CollectionViewer.java -->
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.search_scope">Escopo da busca</message>
@@ -911,6 +930,7 @@
 	<message key="xmlui.administrative.Navigation.administrative_registries">Registros</message>
 	<message key="xmlui.administrative.Navigation.administrative_metadata">Metadado</message>
 	<message key="xmlui.administrative.Navigation.administrative_format">Formato</message>
+	<message key="xmlui.administrative.Navigation.administrative_content">Administração de conteúdo</message>
 	<message key="xmlui.administrative.Navigation.administrative_items">Itens</message>
     <message key="xmlui.administrative.Navigation.administrative_withdrawn">Itens removidos</message>
     <message key="xmlui.administrative.Navigation.administrative_private">Itens restritos</message>
