@@ -4,18 +4,17 @@
 # {1}  Name of collection
 # {2}  handle 
 #
-Subject: DSpace: Submission Approved and Archived 
+Subject: DSpace: Submissão aprovada e Arquivada 
 
-You submitted: {0}
+Você submeteu: {0}
 
-To collection: {1}
+para a coleção: {1}
 
-Your submission has been accepted and archived in DSpace,
-and it has been assigned the following identifier:
+Sua submissão foi aceita e arquivada no DSpace, ela foi marcada com o seguinte identificador
 {2}
 
-Please use this identifier when citing your submission.
+Favor utilizar este identificador quando citar sua submissão.
 
-Many thanks!
+Atenciosamente,
 
-DSpace
+DSpace - Comissão da Verdade em Minas Gerais

@@ -6,14 +6,14 @@
 #
 # See org.dspace.core.Email for information on the format of this file.
 #
-Subject: DSpace - The item export you requested was not completed.
-The item export you requested was not completed, due to the following reason:
+Subject: DSpace - A exportação do item que você solicitou não foi concluída.
+A exportação do item que você solicitou não foi concluída pelos motivos a seguir:
  {0}
 
-For more information you may contact your system administrator:
+Para maiores informações entre em contato com o administrador do sistema:
  {1}
 
 
 
-The DSpace Team
+DSpace - Comissão da verdade em Minas Gerais
 

@@ -5,14 +5,14 @@
 #
 # See org.dspace.core.Email for information on the format of this file.
 #
-Subject: DSpace - Item export requested is ready for download
-The item export you requested from the repository is now ready for download.
+Subject: DSpace - A exportação do item solicitada está pronta para download
+A exportação do item que você solicitou pelo repositório está pronta pra download.
 
-You may download the compressed file using the following link:
+Você pode baixar o arquivo compactado utilizando o link a seguir:
 {0}
 
-This file will remain available for at least {1} hours.  
+Este arquivo ficará disponível por pelo menos {1} horas.  
 
 
-The DSpace Team
+DSpace - Comissão da verdade em Minas Gerais
 
