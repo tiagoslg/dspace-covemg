@@ -76,7 +76,6 @@
                 <xsl:call-template name="buildHead"/>
 
                 <!-- Then proceed to the body -->
-                <meta name="google-site-verification" content="bmC3FEQbF0WKiCp8klshqu0r71L0RnkmYJga9Es_sr8" />
                 <body>
                     <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
                    chromium.org/developers/how-tos/chrome-frame-getting-started -->
@@ -320,6 +319,7 @@
                 </script>
                 <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">&#160;</script>
             </xsl:if>
+            <meta name="google-site-verification" content="bmC3FEQbF0WKiCp8klshqu0r71L0RnkmYJga9Es_sr8" />
 
         </head>
     </xsl:template>
