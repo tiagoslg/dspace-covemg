@@ -10,8 +10,9 @@
         1. DSpace version: 6.3
         2. SCM revision: db2c2e7e0c973434cc6e680128496651cdd27eed
         3. SCM branch: master
-        4. OS: Linux(amd64) version 3.10.0-862.14.4.el7.x86_64
-        5. Applications:
+        4. OS: Red Hat Enterprise Linux Server release 7.5 (Maipo) - x86_64
+        5. Banco de dados: psql (PostgreSQL) 9.2.24
+        6. Applications:
             1. Discovery: enabled.
             2. JRE: Oracle Corporation version 1.8.0_191
             3. Ant version: Apache Ant(TM) version 1.9.13 compiled on July 10 2018
